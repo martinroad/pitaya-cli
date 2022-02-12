@@ -49,3 +49,4 @@ require (
 	gopkg.in/yaml.v2 v2.2.7 // indirect
 	sigs.k8s.io/yaml v1.1.0 // indirect
 )
+replace gopkg.in/abiosoft/ishell.v2 v2.0.0 => github.com/abiosoft/ishell/v2 v2.0.0
